@@ -43,18 +43,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
       <p>
         I'm a data professional with extensive experience working in various data roles across the tech industry.
-        Below, you can find links to my various homes on the internet,
-        as well as some writing related to my experiences, both professional and personal.
+        Below, you can find links to my various homes on the internet.
       </p>
-      <p>
-        If you're interested in urbanism and/or SF housing politics, check out
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://changsun.substack.com/"
-        >
-          Principled Agents
-        </LinkButton>, where I write more about these topics in the context of local Bay Area politics.
-      </p>
+
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
@@ -64,6 +55,28 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           </div>
         )
       }
+    </section>
+
+    <Hr />
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <p>
+        <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="https://changsun.substack.com/"
+        >
+          <strong>Principled Agents</strong>
+        </LinkButton>, where I write about housing and urbanism in the context of local Bay Area politics.
+      </p>
+      <p>My
+        <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="http://photography.changsun.com/"
+        >
+          <strong>photography portfolio site</strong>
+        </LinkButton>, which contains a collection of landscape, cityscape, and some portrait shots.
+      </p>
     </section>
 
     <Hr />
@@ -145,6 +158,18 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   .social-links {
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
+  }
+
+  /* ===== Project Section ===== */
+
+  #projects {
+    @apply pb-6 pt-12;
+  }
+  #projects h2 {
+    @apply text-2xl font-semibold tracking-wide pb-6;
+  }
+  #projects p {
+    @apply my-4;
   }
 
   /* ===== Featured & Recent Posts Sections ===== */
