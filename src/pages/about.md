@@ -4,7 +4,7 @@ title: "About"
 ---
 
 I'm Chang, a data professional with 7+ years of experience working up and down the analytics stack within the tech industry.
-Currently, I'm a analytics engineer/data scientist hybrid at [Modern Treasury](https://www.moderntreasury.com/).
+Currently, I'm a analytics engineer at [OpenAI](https://openai.com/).
 
 When I'm not at work, you can find me:
 - Volunteering with [SF YIMBY](https://www.sfyimby.org/)!
