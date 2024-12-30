@@ -52,13 +52,15 @@ Once you've created your WeChat account, you should add as many people as you kn
 Even though it's not strictly necessary, I would also recommend setting up WeChat Pay. While Alipay alone should be enough for your payments needs, there are are some stores (including for example very popular bubble tea chains) where the only way you can order is by scanning a QR code and paying through a WeChat mini program. Go to "Account" --> "Services" and look for something called "Wallet" that may also have an "awaiting verification" subheading. If you run into any issues, check out [this guide that I found](https://www.registrationchina.com/articles/traveling-in-china-the-latest-wechat-pay/) (link alive as of Dec 2024) that includes some screenshots of what to expect. Follow the instructions to complete WeChat's real name verification process, and then add your bank cards like you did for Alipay.
 
 ## Booking travel
+
+### Trip.com
+([US App Store](https://apps.apple.com/us/app/trip-com-book-flights-hotels/id681752345), [Google Play](https://play.google.com/store/apps/details?id=ctrip.english&hl=en_US))
+
 I recommend using Trip.com to book all of your mainland-related hotels, train tickets, and airfare. Why?
 1. [Airbnb no longer operates in China](https://www.reuters.com/markets/asia/airbnb-says-will-shut-domestic-business-china-july-30-2022-05-24/), and domestic alternatives such as [Tujia](https://www.tujia.com/) are Chinese-only. Hotels in China are cheap these days, and Trip.com is likely to surface properties that know how to properly register foreign guests.
 2. Unlike Western airlines, most Chinese airlines' websites have a terrible (and sometimes entirely broken) UX for non-Chinese travelers.
 3. While the official railway ticket booking service (12306.cn) is cheaper, it is also Chinese language-only, and only worth it if you're on a tight budget, comfortable booking in Chinese, or buying lots of tickets.
 4. Trip.com has 24/7 English-language support available, which is useful if your group does not have any Chinese speakers.
-
-Trip.com has a pretty good mobile app. I would recommend downloading it. ([US App Store](https://apps.apple.com/us/app/trip-com-book-flights-hotels/id681752345), [Google Play](https://play.google.com/store/apps/details?id=ctrip.english&hl=en_US))
 
 ### Should I fly or take the train?
 **I generally recommend taking the train for any trip under 6 hours, or for any trip that has a reasonable (9-12 hour) overnight train option.** Most Chinese airports are extremely far from the city center, and delays are common. Meanwhile, the high speed rail network is quite possibly the world's most impressive, and the trains are almost always on time. The seats are more comfortable and provide more legroom, and it's honestly just really cool to see different cities and countrysides zoom by your window.
@@ -77,12 +79,16 @@ If you're using a roaming plan on your phone, you should have unfettered access 
 Google Maps does not work very well in China. You'll need to hop the firewall just to use it, and most listings are not up-to-date.
 
 ### Gaode Maps (高德地图 gāodé dìtú)
+([US App Store](https://apps.apple.com/us/app/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE-%E9%AB%98%E5%BE%B7%E6%89%93%E8%BD%A6-%E5%AF%BC%E8%88%AA%E5%85%AC%E4%BA%A4%E5%9C%B0%E9%93%81%E5%87%BA%E8%A1%8C/id461703208), [Google Play](https://play.google.com/store/apps/details?id=com.autonavi.minimap&hl=en_US))
+
 This is the most widely-used mapping app. However, it's Chinese-language only, so it may be somewhat difficult to use without any language proficiency.
 
 ### Apple Maps
 If you have an iPhone, Apple Maps is your best bet for English-language navigation. However, it's not quite as detailed as Chinese apps like Gaode.
 
 ### Dīdī Chūxíng (滴滴出行)
+([US App Store](https://apps.apple.com/us/app/didi-ride-hailing-in-china/id554499054), [Google Play](https://play.google.com/store/apps/details?id=com.sdu.didi.psnger&hl=en_US))
+
 Didi is the Uber equivalent of China. As I mentioned above, you can use Didi from its Alipay mini app, but you can also download the standalone app, which can double as an English-language map.
 
 ## Finding restaurants and attractions
@@ -95,6 +101,7 @@ This is the Yelp equivalent of China, and the easiest way to find good food near
 
 ### Xiǎohóngshū (小红书)
 ([US App Store](https://apps.apple.com/us/app/%E5%B0%8F%E7%BA%A2%E4%B9%A6/id741292507), [Google Play](https://play.google.com/store/apps/details?id=com.xingin.xhs&hl=en_US))
+
 This is a another common way to search for cool bars, restaurants, and other things to do wherever you happen to be staying. Most of this is in Chinese.
 
 ## Conclusion
