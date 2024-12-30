@@ -82,8 +82,20 @@ This is the most widely-used mapping app. However, it's Chinese-language only, s
 ### Apple Maps
 If you have an iPhone, Apple Maps is your best bet for English-language navigation. However, it's not quite as detailed as Chinese apps like Gaode.
 
-### Didi Chuxing (滴滴出行)
+### Dīdī Chūxíng (滴滴出行)
 Didi is the Uber equivalent of China. As I mentioned above, you can use Didi from its Alipay mini app, but you can also download the standalone app, which can double as an English-language map.
+
+## Finding restaurants and attractions
+The difficulty here is that these apps are mostly Chinese-language only. The easiest way to navigate these is either to use an app's built-in automatic screen translation service if available, or to take screenshots and translate them.
+
+### Dàzhòng Diǎnpíng (大众点评)
+([US App Store](https://apps.apple.com/us/app/dianping-discover-good-places/id351091731), [Google Play](https://play.google.com/store/apps/details?id=com.dianping.v1&hl=en_US))
+
+This is the Yelp equivalent of China, and the easiest way to find good food nearby to where you're staying. The UI should have English language elements, but much of the app itself might still be in Chinese.
+
+### Xiǎohóngshū (小红书)
+([US App Store](https://apps.apple.com/us/app/%E5%B0%8F%E7%BA%A2%E4%B9%A6/id741292507), [Google Play](https://play.google.com/store/apps/details?id=com.xingin.xhs&hl=en_US))
+This is a another common way to search for cool bars, restaurants, and other things to do wherever you happen to be staying. Most of this is in Chinese.
 
 ## Conclusion
 Hopefully this guide is a good start! Feel free to reach out with any questions, comments, or corrections, as the Chinese tech landscape continues to evolve.
