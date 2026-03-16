@@ -14,5 +14,6 @@ tags:
 Welcome to my personal site. I'm intending to use this part of the site as a collection of my writings that I can share, rather than as a regularly-updated blog.
 
 Examples of what kinds of writing to expect:
+
 - Reflections on working in data roles across the tech industry
 - Travel guides that I can share with others
