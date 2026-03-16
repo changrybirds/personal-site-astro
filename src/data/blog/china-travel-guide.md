@@ -3,7 +3,7 @@ title: "Super-apps, eSIMs, and more: How to prepare for a trip to China"
 author: Chang Sun
 description: "A guide to the apps, eSIMs, and other things you need for traveling to China."
 pubDatetime: 2024-12-29T15:30:00-07:00
-modDatetime: 2026-03-16T00:00:00-07:00
+modDatetime: 2026-03-16T02:00:00-08:00
 featured: true
 draft: false
 tags:
@@ -81,7 +81,7 @@ Considering how many daily necessities revolve around having persistent internet
 
 If you are truly price insensitive, or your phone is still under contract with your carrier, buy whatever international roaming plan your current mobile carrier offers. Depending on the carrier this can be expensive as $10/day (AT&T), or no extra charge if you're with Google Fi.
 
-If you have an [unlocked phone](https://www.bestbuy.com/discover-learn/using-an-unlocked-phone-internationally/pcmcat1715266757282) or are able to request that your carrier unlock the phone, and you don't have high-speed international roaming included, I'd recommend using one of the [prepaid eSIMs from Trip.com](https://www.trip.com/guide/phone/china-esim.html). They sell 30-day eSIMs that will get you firewall-free data in the mainland. It should be called the "30-Day Pass - Greater Bay Area 15GB".
+If you have an [unlocked phone](https://www.bestbuy.com/discover-learn/using-an-unlocked-phone-internationally/pcmcat1715266757282) or are able to request that your carrier unlock the phone, and you don't have high-speed international roaming included, I'd recommend using one of the [prepaid eSIMs from Trip.com](https://www.trip.com/guide/phone/china-esim.html). They sell eSIMs with validity up to 30 days that will get you firewall-free data in the mainland. I'd recommend either the [mainland-only China Mobile 5G eSIM](https://www.trip.com/things-to-do/detail/57042119/) or the [China/HK/Macau eSIM](https://www.trip.com/things-to-do/detail/40017785/), depending on what you need.
 
 ## VPNs
 
